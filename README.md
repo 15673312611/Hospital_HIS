@@ -1,6 +1,7 @@
-# 价格管理系统
+![image](https://github.com/user-attachments/assets/76fe6d0e-ea51-4dea-b06b-5e29291d93eb)# 价格管理系统
 
 一个基于 React + TypeScript + Ant Design 的现代化价格管理系统，提供丰富的后台管理功能和美观的用户界面。
+此项目只有前端实现 没有后端交互 如有相关需求可联系微信:soe303
 
 ## 🚀 技术栈
 
@@ -15,6 +16,12 @@
 - **图表库**: Ant Design Charts
 - **代码规范**: ESLint + Prettier
 - **组件文档**: Storybook
+
+  **页面展示**
+  ![image](https://github.com/user-attachments/assets/c1bd8c2f-5835-4046-9685-04a9d42305f4)
+![image](https://github.com/user-attachments/assets/e4c2cb83-6880-4660-a76e-06ee9a8f1ee8)
+![image](https://github.com/user-attachments/assets/cae09fc6-9922-4e59-91d6-c091f8acd309)
+
 
 ## 📁 项目结构
 
